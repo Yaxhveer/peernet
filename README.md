@@ -1,4 +1,4 @@
-# PeerChat - A P2P Chat Application
+# PeerNet - A P2P Chat Application
 
 ### Overview
 PeerNet is a peer-to-peer chat application built using libp2p. The application allows multiple peers to join specific chat rooms and exchange messages in real-time using a PubSub mechanism. It supports dynamic peer discovery and allows users to switch rooms during a chat session.

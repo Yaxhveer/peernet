@@ -10,7 +10,7 @@ import (
 	"github.com/sirupsen/logrus"
 )
 
-const SERVICE = "peerchat"
+const SERVICE = "peernet"
 
 // PeerNetwork represents a structure that encapsulates P2P communication components.
 type PeerNetwork struct {
